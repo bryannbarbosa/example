@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-24.2.1_09098bd0b35ae8b4cb1461fd5df5083e97fe734a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-24.2.1_18a5607e2b2d496db94573db7719990347e33c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-24.2.1_16ae322c960c5a0976605ba1bbdf3ca1f8865fa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-24.2.1_6c9a555bdbd76910f0356d973866a56eba67f1db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_460c87643e5bbccfad616231ef364ea94fcf158b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_17049890b11e872caace9d1f3c47cc09cd26d7fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_d053da21c864c24bb981bcf959ad93f08b7fd713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-24.2.1_9a12d1f320fa000e1d4dcf60d8993333c59be3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-24.2.1_d17bfeae74676f6a300d7869d8eac9f3103fc3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-24.2.1_3cccb079ba4600541e77c7b255a8e9913c34282b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-24.2.1_323c51d7f572a3c8e968f6eac9ad199b78a0e3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-24.2.1_f59228ec217997d4ee909233a092761c83068025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_bb69a2721aa427c02545f9d33c918e593afb0e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/maikeajudaapp/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/maikeajudaapp-runtime-unspecified_d1814fcba0f22232571af69d736f105c408be481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_0d782992593f3718711429ba8edfba687f8d50f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/maikeajudaapp/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_c6256db9ab0191c33fd03424c6a40be0b788fca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-24.2.1_e7a3726a37cdf7b913038cccffd235ba5e072d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_417fe5e2162d46ef5c1419b1cb60bbcfc17c4be3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-24.2.1_e9e4caef9907e6cac28a94a2c06e64bd256c81cd.jar" />
+    </item>
+
+</items>
