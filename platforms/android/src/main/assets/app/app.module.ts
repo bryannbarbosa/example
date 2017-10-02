@@ -9,6 +9,7 @@ import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
 
 import { AuthService } from './main/auth.service';
+import { AuthGuardService } from './main/auth-guard.service';
 
 
 @NgModule({
@@ -26,7 +27,7 @@ import { AuthService } from './main/auth.service';
     ],
     providers: [
         { provide: NgModuleFactoryLoader, useClass: NSModuleFactoryLoader },
-        AuthService
+        AuthService, AuthGuardService
     ],
     schemas: [
         NO_ERRORS_SCHEMA

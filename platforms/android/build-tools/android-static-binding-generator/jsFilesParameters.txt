@@ -65,6 +65,7 @@
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/index.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl-common.js
+/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/nativescript-snackbar/snackbar.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/date-picker/date-picker-common.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/date-picker/date-picker.js
@@ -216,6 +217,10 @@
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/xhr/xhr.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/fps-meter/fps-meter.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/fps-meter/fps-native.js
+/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/main/auth.service.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/main/main-routing.module.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/main/main.module.js
+/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/main/auth-guard.service.js
+/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/main/signup/signup.component.js
+/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/main/categories/categories.component.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-ajuda-app/platforms/android/src/main/assets/app/main/signin/signin.component.js

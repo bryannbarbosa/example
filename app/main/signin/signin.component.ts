@@ -23,8 +23,14 @@ export class SigninComponent implements OnInit {
 
   Access() {
 		this.authService.AuthUser(this.input);
-    this.router.navigate(["categories"], { relativeTo: this.route });
+    if(ApplicationSettings.getString('token') != undefined) {
+      this.router.navigate(["categories"], { relativeTo: this.route });
+    }
 	}
+
+  Quit() {
+    ApplicationSettings.remove('token');
+  }
 
   ngOnInit(): void {
   }
