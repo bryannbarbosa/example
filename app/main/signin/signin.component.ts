@@ -1,6 +1,9 @@
 import { Component, OnInit } from "@angular/core";
-import { RouterExtensions } from "nativescript-angular/router";
 import * as ApplicationSettings from "application-settings";
+import { Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
+import { AuthService } from '../auth.service';
+
 
 @Component({
     selector: "Signin",
@@ -11,12 +14,17 @@ export class SigninComponent implements OnInit {
 
   public input: any;
 
-  public constructor(private router: RouterExtensions) {
+  public constructor(private authService: AuthService, private router: Router, private route: ActivatedRoute) {
       this.input = {
           "email": "",
           "password": ""
       }
   }
+
+  Access() {
+		this.authService.AuthUser(this.input);
+    this.router.navigate(["categories"], { relativeTo: this.route });
+	}
 
   ngOnInit(): void {
   }
